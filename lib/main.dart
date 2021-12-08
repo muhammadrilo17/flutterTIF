@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:latihan_app_1/change_view.dart';
-import 'package:latihan_app_1/home.dart';
+
+import 'latihan_1/change_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,7 +9,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
+  // Widget build => materialApp ini merupakan root dari aplikasi kalian.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -17,6 +17,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
+      themeMode: ThemeMode.system,
+      // Definisikan Home sebagai tampilan awal yg dimunculkan pada aplikasi kalian
       home: const ChangeView(),
     );
   }
