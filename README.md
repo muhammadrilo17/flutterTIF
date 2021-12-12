@@ -7,6 +7,7 @@ Pada course ini kalian akan belajar mengenai dasar dari Flutter. Silahkan menuju
 ## Daftar Isi
 
 - [home](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib)
-- [latihan_1](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_1)
-  Berisi Latihan tentang dasar dari flutter.
-- [latihan_2](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_2)
+- [latihan_1](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_1)</br>
+  Berisi Latihan tentang dasar dari flutter. Diantaranya adalah Text, Center, Statefull dan Stateless, Button.
+- [latihan_2](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_2)</br>
+  Berisi latihan tentang row, column, list view, stack, circle avatar.
