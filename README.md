@@ -8,4 +8,5 @@ Pada course ini kalian akan belajar mengenai dasar dari Flutter. Silahkan menuju
 
 - [home](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib)
 - [latihan_1](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_1)
+  Berisi Latihan tentang dasar dari flutter.
 - [latihan_2](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_2)
