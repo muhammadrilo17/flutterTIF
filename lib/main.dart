@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:latihan_app_1/latihan_3/case_layout_builder_page.dart';
+import 'package:latihan_app_1/latihan_3/case_layout_latihan.dart';
+import 'package:latihan_app_1/latihan_3/layout_builder_latihan.dart';
 import 'package:latihan_app_1/latihan_3/layout_builder_page.dart';
+import 'package:latihan_app_1/latihan_3/media_query_latihan.dart';
 import 'package:latihan_app_1/latihan_3/media_query_page.dart';
 
 import 'latihan_1/change_view.dart';
@@ -24,7 +27,7 @@ class MyApp extends StatelessWidget {
       ),
       themeMode: ThemeMode.system,
       // Definisikan Home sebagai tampilan awal yg dimunculkan pada aplikasi kalian
-      home: const CaseLayoutBuilderPage(),
+      home: const CaseLayoutLatihan(),
     );
   }
 }
