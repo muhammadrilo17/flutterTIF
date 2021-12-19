@@ -5,6 +5,7 @@ import 'package:latihan_app_1/latihan_3/layout_builder_latihan.dart';
 import 'package:latihan_app_1/latihan_3/layout_builder_page.dart';
 import 'package:latihan_app_1/latihan_3/media_query_latihan.dart';
 import 'package:latihan_app_1/latihan_3/media_query_page.dart';
+import 'package:latihan_app_1/latihan_4/wisata_page.dart';
 
 import 'latihan_1/change_view.dart';
 import 'latihan_2/layout.dart';
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
       ),
       themeMode: ThemeMode.system,
       // Definisikan Home sebagai tampilan awal yg dimunculkan pada aplikasi kalian
-      home: const CaseLayoutLatihan(),
+      home: const WisataPage(),
     );
   }
 }
