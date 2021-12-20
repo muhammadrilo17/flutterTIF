@@ -14,3 +14,5 @@ Pada course ini kalian akan belajar mengenai dasar dari Flutter. Silahkan menuju
   Berisi latihan tentang row, column, list view, stack, circle avatar.
 - [latihan_3](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_3)</br>
   Berisi latihan tentang Responsive Layout (MediaQuery dan Layout Builder), dan Navigation (In line code)
+- [latihan_4](https://github.com/ekomrp177/flutterTIF/tree/Latihan1/lib/latihan_4)</br>
+  Berisi studi kasus dari implementasi pertemuan 1-3. Bisa di clone dan Run untuk mencoba dan jangan lupa baca dokumentasinya (README.md)
